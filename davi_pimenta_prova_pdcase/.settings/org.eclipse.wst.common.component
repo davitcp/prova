@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="davi_pimenta_prova_pdcase">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="davi_pimenta_prova_pdcase"/>
+        <property name="java-output-path" value="/davi_pimenta_prova_pdcase/build/classes"/>
+    </wb-module>
+</project-modules>
